@@ -1,0 +1,13 @@
+NO ./sprites/n_wall.xpm
+SO ./sprites/s_wall.xpm
+WE ./sprites/w_wall.xpm
+EA ./sprites/e_wall.xpm
+
+F 255,75,0
+C 0,191,128
+
+111111111
+100000001
+100000001
+1000N0001
+111111111
